@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### About Me:
+- 💻Computer Science Student at CEGEP Heritage College
+- Age: 18
+- Pronouns: She/Her
